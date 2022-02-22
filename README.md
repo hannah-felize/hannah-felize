@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannah-felize
 - 👀 I’m interested in application security
-- 🌱 I’m currently learning Expo with JavaScript and React
+- 🌱 I’m currently learning mobile development in Expo with JavaScript and React, in addition to CI/CD using Docker and Jenkins
 - 💞️ I’m now collaborating on an Android project
 - 📫 How to reach me: https://www.linkedin.com/in/hannah-felize/
 <!---
