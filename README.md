@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannah-felize
 - 👀 I’m interested in cybersecurity and application security
-- 🌱 I’m currently learning reverse engineering with C, Java, and Assembly
+- 🌱 I’m currently studying for the CompTIA Security+ certification exam. And also learning reverse engineering with C, Java, and Assembly
 - 📫 How to reach me: https://www.linkedin.com/in/hannah-felize/
 
 <!---
