@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannah-felize
 - 👀 I’m interested in cybersecurity and application security
-- 🌱 I'm studying for my Practical Network Penetration Tester (PNPT) certification. Also learning reverse engineering with C, Java, and Assembly
+- 🌱 I'm studying for my Practical Network Penetration Tester (PNPT) certification. Also taking SANS course SEC401: Security Essentials: Network, Endpoint, and Cloud
 - 📫 How to reach me: https://www.linkedin.com/in/hannah-felize/
 
 <!---
